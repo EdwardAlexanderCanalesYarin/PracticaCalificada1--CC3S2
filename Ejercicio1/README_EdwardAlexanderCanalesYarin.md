@@ -8,3 +8,5 @@ Primero escribimos las pruebas y ejecutamos, como aún no está definido la clas
 Ahora escribimos código necesario para que pasen las pruebas (color verde)
 
 ![EjecucionPrueEnVerde](Image/PruebasEnVerde.png)
+
+15 pruebas pasaron (En verde) y 2 arrojaron una excepción (las pruebas de la división por cero)
